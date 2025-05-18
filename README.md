@@ -2,7 +2,7 @@
 
  World Population Analysis
 
-![World Population Presentation](https://github.com/yourusername/world-population-analysis/blob/main/presentation_cover.png?raw=true)
+![World Population Presentation](https://github.com/khan123-code/world-population-analysis/blob/main/presentation_cover.png?raw=true)
 
 📊 **Insights from 1970 to 2022**  
 👤 By: **Mohammad Atiur Rahman Khan**  
@@ -41,7 +41,7 @@ This project explores world population trends across countries and continents fr
 
 ## 🎥 Project Presentation
 <div>
-<img src="C:\Users\PC\Pictures\Screenshots\Screenshot (42).png">
+<img src=">
 🎬 **Click to view full interactive Prezi presentation:**  
 🔗 [View on Prezi](https://prezi.com/view/s7Yur0SbUBxh8DvkwCbN/)
 </div>
