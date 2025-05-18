@@ -1,10 +1,18 @@
+<div align="center">
+
 # 🌍 World Population Analysis
 
-![World Population Presentation](https://github.com/yourusername/world-population-analysis/assets/main/screenshot42.png)
+![World Population Presentation](https://github.com/yourusername/world-population-analysis/blob/main/presentation_cover.png?raw=true)
 
 📊 **Insights from 1970 to 2022**  
-By: **Mohammad Atiur Rahman Khan**  
-Tools Used: `Python`, `Pandas`, `Matplotlib`, `Seaborn`
+👤 By: **Mohammad Atiur Rahman Khan**  
+🛠️ Tools Used:  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/Seaborn-49A7A1?style=for-the-badge&logo=seaborn&logoColor=white" height="25">
+
+</div>
 
 ---
 
@@ -16,27 +24,28 @@ This project explores world population trends across countries and continents fr
 
 ## 🚀 Key Highlights
 
-- Cleaned and organized global population data
-- Performed feature engineering to calculate growth and density insights
-- Created visualizations using Matplotlib and Seaborn
-- Identified top growing countries and population patterns by continent
+✅ Cleaned and organized global population data  
+✅ Performed feature engineering to calculate growth and density insights  
+✅ Created visualizations using Matplotlib and Seaborn  
+✅ Identified top growing countries and population patterns by continent  
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages:** Python  
-- **Libraries:** Pandas, Matplotlib, Seaborn  
-- **Tools:** Jupyter Notebook
+- 🐍 Python  
+- 📊 Pandas, Matplotlib, Seaborn  
+- 🧪 Jupyter Notebook
 
 ---
 
-## 🖥️ Project Presentation
+## 🎥 Project Presentation
 
-📽️ **Click below to view the full interactive Prezi presentation:**  
+<img src="C:\Users\PC\Pictures\Screenshots\Screenshot (42).png">
+🎬 **Click to view full interactive Prezi presentation:**  
 🔗 [View on Prezi](https://prezi.com/view/s7Yur0SbUBxh8DvkwCbN/)
 
 ---
 
-## 📌 Folder Structure
+## 📁 Folder Structure
 
