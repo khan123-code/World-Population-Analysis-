@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 World Population Analysis
+ World Population Analysis
 
 ![World Population Presentation](https://github.com/yourusername/world-population-analysis/blob/main/presentation_cover.png?raw=true)
 
@@ -40,11 +40,11 @@ This project explores world population trends across countries and continents fr
 ---
 
 ## 🎥 Project Presentation
-
+<div>
 <img src="C:\Users\PC\Pictures\Screenshots\Screenshot (42).png">
 🎬 **Click to view full interactive Prezi presentation:**  
 🔗 [View on Prezi](https://prezi.com/view/s7Yur0SbUBxh8DvkwCbN/)
-
+</div>
 ---
 
 ## 📁 Folder Structure
