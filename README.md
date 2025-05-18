@@ -39,7 +39,7 @@ This project explores world population trends across countries and continents fr
 ---
 
 ## 🎥 Project Presentation
-![Presentation Cover]()
+![Presentation Cover](https://github.com/khan123-code/World-Population-Analysis-/blob/main/presentation_cover.png)
 
 🎬 **Click to view full interactive Prezi presentation:**  
 🔗 [View on Prezi](https://prezi.com/view/s7Yur0SbUBxh8DvkwCbN/)
